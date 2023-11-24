@@ -23,4 +23,4 @@ print hash.dig(:b, :c)
 
 Check out the [Ruby documentation][ruby-docs] for more info.
 
-[ruby-docs]: https://jekyllrb.com/docs/home
+[ruby-docs]: https://apidock.com/ruby/Hash/dig
